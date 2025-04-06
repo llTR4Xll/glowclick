@@ -1,0 +1,2 @@
+# glowclick
+auto click free
